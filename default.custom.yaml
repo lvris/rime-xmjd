@@ -5,8 +5,6 @@ patch:
   schema_list:
     - {schema: xmjd6}
   "switcher/hotkeys":
-    - F4
-    - "Control+grave"
     - "Control+Shift+grave"
   "switcher/save_options/+":
     - ascii_punct

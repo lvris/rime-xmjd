@@ -3,9 +3,7 @@ name: xmjd6.fuhao
 version: "Q1"
 sort: original
 ...
-# 特殊
-*#06#	xjlji
-# 标点
+# 标点符号
 ;	;
 :	;;
 !	;a
@@ -15,7 +13,7 @@ sort: original
 ↓	;cx
 、	;d 
 [	;e
-#;f被用做了重复，i键也是
+# ;f被用做了重复，i键也是
 <	;g
 >	;h
 |	;i

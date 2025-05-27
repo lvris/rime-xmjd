@@ -12,7 +12,7 @@ patch:
 
   #                         0选择第一个,1选择第二个
   switches/@0/reset: 0     #[ 中文, 西文 ]
-  switches/@1/reset: 0     #[ 全角, 半角 ]
+  switches/@1/reset: 1     #[ 全角, 半角 ]
   switches/@2/reset: 0     #[ 简体, 繁體 ]
   switches/@3/reset: 0     #[ 地球文, 火星文 ]
   switches/@4/reset: 1     #[ 简约, 表情展示 ]
@@ -32,8 +32,8 @@ patch:
     Caps_Lock: clear   #切换大小写，clear是不上屏切换大写，使用commit_code会先上屏小写然后再输入是大写
     Control_L: noop    #ctrl
     Control_R: noop    #ctrl
-    Shift_L: commit_code    #先上屏后继续输入，反注释后，shift会失效
-    Shift_R: commit_code    # Mac 系统上的鼠鬚管不能区分左、右，因此只有对 Shift_L, Control_L 的设定起作用
+    Shift_L: noop    #先上屏后继续输入，反注释后，shift会失效
+    Shift_R: noop    # Mac 系统上的鼠鬚管不能区分左、右，因此只有对 Shift_L, Control_L 的设定起作用
     # tab: clear   # 会使按tab后，直接选择下一个
     # Eisu_toggle: clear   #模拟映射
 
