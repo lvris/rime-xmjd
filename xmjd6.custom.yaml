@@ -37,6 +37,22 @@ patch:
     # tab: clear   # 会使按tab后，直接选择下一个
     # Eisu_toggle: clear   #模拟映射
 
+  # 个人配置
+  speller/initials: "abcdefghijklmnopqrstuvwxyz;"
+  key_binder/bindings/@3: null
+  key_binder/bindings/@4: null
+  key_binder/bindings/@5: null
+  key_binder/bindings/+:
+    - { when: has_menu, accept: apostrophe, send: BackSpace }
+
+  recognizer/patterns/unicode: null
+  recognizer/patterns/zhuan: null
+  recognizer/patterns/quanpinerfen: "^i[a-z']*?$"
+  recognizer/patterns/xmjd6en: "^v[a-z]*?$"
+
+  repeat_history/input: "v"
+  xmjd6en/prefix: "v"
+  quanpinerfen/prefix: "i"
 
 
  #switches本地持久化，不会随着部署重置开关，而会保持部署前的设置

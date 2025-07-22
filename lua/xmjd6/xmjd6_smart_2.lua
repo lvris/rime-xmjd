@@ -9,7 +9,7 @@ local function processor(key_event, env)
         return kNoop
     end
     local key = key_event:repr()
-    if key ~= semicolon and key ~= apostrophe then
+    if key ~= semicolon then
         return kNoop
     end
 
@@ -18,8 +18,8 @@ local function processor(key_event, env)
     local selected_index = context.composition:back().selected_index
     local page_start = (selected_index / page_size) * page_size
 
-    local index = key == semicolon and 1 or 2
-    if context:select(page_start + index) then
+    -- local index = key == semicolon and 1 or 2
+    if context:select(page_start + 1) then
         context:commit()
         return kAccepted
     end

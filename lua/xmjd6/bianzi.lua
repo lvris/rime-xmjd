@@ -14,7 +14,7 @@ local function bianzi(key, env)
             if candidate ~= nil then
 				local text = candidate.text
                 -- local text = handle(candidate.text)
-                engine:commit_text("ᥬ" .. text .. "ᩤ")
+                engine:commit_text("「" .. text .. "」")
 
                 context:clear()
                 return 1 -- kAccepted

@@ -4515,7 +4515,7 @@ sort: original
 䄷	ekuvvu
 失	ekuvvu
 矢	ekuvvu
-事	ekv
+式	ekv
 轼	ekva
 𰗛	ekvao
 𰗛	ekvaov
@@ -4556,10 +4556,9 @@ sort: original
 石	ekvuoo
 殖	ekvuu
 殖	ekvuuo
-式	ekvv
+示	ekvv
 兘	ekvva
 兘	ekvvao
-示	ekvvi
 示	ekvviu
 式	ekvviv
 奭	ekvvu
@@ -11662,10 +11661,9 @@ sort: original
 潗	jkaiov
 𬯀	jkaiov
 际	jkaivv
-济	jkao
+鸡	jkao
 漃	jkaoo
 漃	jkaooa
-鸡	jkaou
 鸡	jkaoua
 済	jkaov	#日本汉字
 濈	jkaovi
@@ -11852,7 +11850,7 @@ sort: original
 庴	jkovv
 庴	jkovvi
 几	jku
-及	jkua
+祭	jkua
 鲫	jkuaa
 几	jkuaa	#全码
 鱾	jkuaav
@@ -11866,7 +11864,6 @@ sort: original
 饥	jkuau
 𬶭	jkuaua
 饥	jkuaua
-祭	jkuav
 觭	jkuavu
 祭	jkuavv
 卽	jkui
@@ -18909,7 +18906,6 @@ sort: original
 桡	nzvva
 瑙	nzvvaa
 桡	nzvvau
-平	p
 品	pb
 姘	pba
 嫔	pbau
@@ -21057,8 +21053,7 @@ sort: original
 稽	qkuvv
 气	qkuvva
 稽	qkuvvu
-其	qkv
-七	qkva
+七	qkv
 妻	qkvaa
 七	qkvaa	#全码
 郪	qkvaai
@@ -22353,7 +22348,6 @@ sort: original
 垗	qzvouo
 枛	qzvu
 枛	qzvuui
-人	r
 瑞	rb
 汭	rba
 𮉫	rbaa
@@ -22877,7 +22871,6 @@ sort: original
 𰺷	rzva
 𰺷	rzvaoa
 桡	rzvvau
-三	s
 随	sb
 隋	sba
 绥	sbaa
@@ -23680,7 +23673,6 @@ sort: original
 橾	szvo
 埽	szvoav
 橾	szvooo
-他	t
 推	tb
 退	tba
 𬯎	tbai
@@ -24767,7 +24759,7 @@ sort: original
 霯	trvo
 鼟	trvoao
 霯	trvoao
-她	ts
+它	ts
 沓	tsa
 𦈖	tsaa
 涾	tsaao
@@ -24811,10 +24803,9 @@ sort: original
 拓	tsiuvu
 𠉂	tsiv
 𠉂	tsivuo
-它	tso
-祂	tsoa
+祂	tso
 祂	tsoaai
-褟	tsoao
+褟	tsoa
 褟	tsoaoi
 踏	tsoi
 嚃	tsoia
@@ -25525,7 +25516,7 @@ sort: original
 夞	whuaou	#无读音
 歪	whv
 歪	whvuvi
-无	wj
+五	wj
 屋	wja
 毋	wjaa
 𣱾	wjaai
@@ -25689,12 +25680,11 @@ sort: original
 啎	wjuvvi
 牾	wjuvvi
 橆	wjuvvv
-五	wjv
-吾	wjvi
+吾	wjv
+巫	wjvi
 郚	wjvia
 郚	wjviai
 五	wjviav
-巫	wjvii
 巫	wjviii
 恶	wjvio
 悪	wjvioa
@@ -27861,7 +27851,7 @@ sort: original
 叆	xhvvu
 瑷	xhvvuo
 叆	xhvvuo
-二	xj
+儿	xj
 洱	xja
 𱅋	xjaa
 𱅋	xjaavi
@@ -27890,13 +27880,12 @@ sort: original
 唲	xjou
 唲	xjouiv
 咡	xjovii
-儿	xju
-尔	xjua
+尔	xju
+饵	xjua
 儿	xjuaa
 尔	xjuaiu
 迩	xjuao
 迩	xjuaoa
-饵	xjuav
 饵	xjuavi
 鲕	xjuavu
 𡭗	xjuo
@@ -29527,7 +29516,6 @@ sort: original
 聱	xzvvvi
 獒	xzvvvu
 璈	xzvvvv
-一	y
 因	yb
 引	yba
 骃	ybaa
@@ -29732,8 +29720,8 @@ sort: original
 珢	ybvvav
 烎	ybvvo
 烎	ybvvou
-有	yd
-又	yda
+又	yd
+游	yda
 幼	ydaa
 𢆶	ydaaa
 𢆶	ydaaaa
@@ -29746,8 +29734,7 @@ sort: original
 浟	ydaii
 滺	ydaiiu
 浟	ydaiiu
-游	ydao
-㕛	ydaoa
+㕛	ydao
 㕛	ydaoao
 𠮢	ydaoo
 又	ydaoo	#全码
@@ -29765,8 +29752,8 @@ sort: original
 瀀	ydavui
 㳓	ydavuo
 由	ydi
-邮	ydia
-幽	ydiaa
+幽	ydia
+邮	ydiaa
 蚴	ydiaaa
 黝	ydiaaa
 㽕	ydiaaa
@@ -32360,7 +32347,7 @@ sort: original
 攅	zfiuvv	#繁体 ⿰扌𰷣
 儧	zfiv	#繁体 ⿰亻𰷣
 儧	zfivvu	#繁体 ⿰亻𰷣
-咱	zfo
+咱	zf
 𬤮	zfoa
 𬤮	zfoauv
 寁	zfoo
